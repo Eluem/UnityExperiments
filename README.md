@@ -1,2 +1,2 @@
-# UnityExperiments
-Collection of Unity experiment projects
+# Unity Experiments
+Collection of Unity experimentation projects
